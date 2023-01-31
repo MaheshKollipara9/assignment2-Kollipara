@@ -7,4 +7,15 @@
 
 ---
 
-### Tables
+ ### Tables
+ > Here I'am creating the table having some country names that i wanna suggest to the people who want to visit.
+
+
+ |Country|Reason|Days Spend|
+ |---|---|---|
+ |Srilanka|Food|3 Days|
+ |Nether Lands|wine|4 Days|
+ |Newziland|Climate|5 Days|
+ |America|Education|4 Days|
+ 
+---
