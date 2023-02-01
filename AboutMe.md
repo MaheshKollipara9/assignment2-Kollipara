@@ -19,3 +19,31 @@
  |America|Education|4 Days|
  
 ---
+### Quotes
+
+> “If a little is great, and a lot is better, then way too much is just about right!” ~ Mae West
+
+
+> “The only place success comes before work is in the dictionary.” ~ Vince Lombardi , Funny quotes about work
+
+---
+
+### Code Fencing
+
+
+[Link to my JQuery code snippet is ](https://css-tricks.com/snippets/jquery/image-preloader/)
+
+ ```
+ 
+ <?JQuery
+ $.preloadImages = function() {
+  for (var i = 0; i < arguments.length; i++) {
+    $("<img />").attr("src", arguments[i]);
+  }
+}
+
+$.preloadImages("hoverimage1.jpg","hoverimage2.jpg");
+?>
+
+```
+[Link to my jquery stackOverflow page](https://stackoverflow.com/questions/3762463/trying-to-find-a-jquery-image-preloader)
